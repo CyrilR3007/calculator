@@ -1,0 +1,34 @@
+C:\dev\The BATMAN Calculator\The BATMAN Calculator\bin\Debug\net6.0-windows\The BATMAN Calculator.exe
+C:\dev\The BATMAN Calculator\The BATMAN Calculator\bin\Debug\net6.0-windows\The BATMAN Calculator.deps.json
+C:\dev\The BATMAN Calculator\The BATMAN Calculator\bin\Debug\net6.0-windows\The BATMAN Calculator.runtimeconfig.json
+C:\dev\The BATMAN Calculator\The BATMAN Calculator\bin\Debug\net6.0-windows\The BATMAN Calculator.dll
+C:\dev\The BATMAN Calculator\The BATMAN Calculator\bin\Debug\net6.0-windows\The BATMAN Calculator.pdb
+C:\dev\The BATMAN Calculator\The BATMAN Calculator\obj\Debug\net6.0-windows\The BATMAN Calculator.csproj.AssemblyReference.cache
+C:\dev\The BATMAN Calculator\The BATMAN Calculator\obj\Debug\net6.0-windows\The_BATMAN_Calculator.Calculator.resources
+C:\dev\The BATMAN Calculator\The BATMAN Calculator\obj\Debug\net6.0-windows\The BATMAN Calculator.csproj.GenerateResource.cache
+C:\dev\The BATMAN Calculator\The BATMAN Calculator\obj\Debug\net6.0-windows\The BATMAN Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\The BATMAN Calculator\The BATMAN Calculator\obj\Debug\net6.0-windows\The BATMAN Calculator.AssemblyInfoInputs.cache
+C:\dev\The BATMAN Calculator\The BATMAN Calculator\obj\Debug\net6.0-windows\The BATMAN Calculator.AssemblyInfo.cs
+C:\dev\The BATMAN Calculator\The BATMAN Calculator\obj\Debug\net6.0-windows\The BATMAN Calculator.csproj.CoreCompileInputs.cache
+C:\dev\The BATMAN Calculator\The BATMAN Calculator\obj\Debug\net6.0-windows\The BATMAN Calculator.dll
+C:\dev\The BATMAN Calculator\The BATMAN Calculator\obj\Debug\net6.0-windows\refint\The BATMAN Calculator.dll
+C:\dev\The BATMAN Calculator\The BATMAN Calculator\obj\Debug\net6.0-windows\The BATMAN Calculator.pdb
+C:\dev\The BATMAN Calculator\The BATMAN Calculator\obj\Debug\net6.0-windows\The BATMAN Calculator.genruntimeconfig.cache
+C:\dev\The BATMAN Calculator\The BATMAN Calculator\obj\Debug\net6.0-windows\ref\The BATMAN Calculator.dll
+C:\dev\calculator_1\The BATMAN Calculator\bin\Debug\net6.0-windows\The BATMAN Calculator.exe
+C:\dev\calculator_1\The BATMAN Calculator\bin\Debug\net6.0-windows\The BATMAN Calculator.deps.json
+C:\dev\calculator_1\The BATMAN Calculator\bin\Debug\net6.0-windows\The BATMAN Calculator.runtimeconfig.json
+C:\dev\calculator_1\The BATMAN Calculator\bin\Debug\net6.0-windows\The BATMAN Calculator.dll
+C:\dev\calculator_1\The BATMAN Calculator\bin\Debug\net6.0-windows\The BATMAN Calculator.pdb
+C:\dev\calculator_1\The BATMAN Calculator\obj\Debug\net6.0-windows\The BATMAN Calculator.csproj.AssemblyReference.cache
+C:\dev\calculator_1\The BATMAN Calculator\obj\Debug\net6.0-windows\The_BATMAN_Calculator.Calculator.resources
+C:\dev\calculator_1\The BATMAN Calculator\obj\Debug\net6.0-windows\The BATMAN Calculator.csproj.GenerateResource.cache
+C:\dev\calculator_1\The BATMAN Calculator\obj\Debug\net6.0-windows\The BATMAN Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\calculator_1\The BATMAN Calculator\obj\Debug\net6.0-windows\The BATMAN Calculator.AssemblyInfoInputs.cache
+C:\dev\calculator_1\The BATMAN Calculator\obj\Debug\net6.0-windows\The BATMAN Calculator.AssemblyInfo.cs
+C:\dev\calculator_1\The BATMAN Calculator\obj\Debug\net6.0-windows\The BATMAN Calculator.csproj.CoreCompileInputs.cache
+C:\dev\calculator_1\The BATMAN Calculator\obj\Debug\net6.0-windows\The BATMAN Calculator.dll
+C:\dev\calculator_1\The BATMAN Calculator\obj\Debug\net6.0-windows\refint\The BATMAN Calculator.dll
+C:\dev\calculator_1\The BATMAN Calculator\obj\Debug\net6.0-windows\The BATMAN Calculator.pdb
+C:\dev\calculator_1\The BATMAN Calculator\obj\Debug\net6.0-windows\The BATMAN Calculator.genruntimeconfig.cache
+C:\dev\calculator_1\The BATMAN Calculator\obj\Debug\net6.0-windows\ref\The BATMAN Calculator.dll
